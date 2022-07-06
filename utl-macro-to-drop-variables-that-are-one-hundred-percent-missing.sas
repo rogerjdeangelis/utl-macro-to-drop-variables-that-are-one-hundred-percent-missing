@@ -2,6 +2,11 @@
 
 Macro to drop variables that are one hundred percent missing
 
+github
+https://tinyurl.com/bdf9672p
+
+Macros
+https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories
 
 
 /*                   _
