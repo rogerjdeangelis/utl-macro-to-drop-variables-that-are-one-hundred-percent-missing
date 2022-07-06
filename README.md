@@ -6,7 +6,10 @@ Macro to drop variables that are one hundred percent missing
     Macro to drop variables that are one hundred percent missing
 
     github
-    https://github.com/rogerjdeangelis/utl-macro-drop-variables-that-are-one-hundred-percent-missing
+    https://tinyurl.com/bdf9672p
+    
+    macros
+    https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories
 
 
     /*                   _
